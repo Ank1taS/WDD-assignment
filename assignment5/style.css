@@ -1,0 +1,53 @@
+body {
+    margin: 5%;
+    padding: 5%;
+    padding-top: 2%;
+}
+.containt {
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    height: 60%;
+    width: 50%;
+    top: 0px;
+    bottom: 0px;
+    left:0px;
+    right: 0px;
+    margin: auto;
+    padding: 10px 0px 30px 0px;
+    background-color: rgb(232, 219, 233);
+}
+.formHeading {
+    font-size: x-large;
+    color:color:rgb(67, 52, 133);
+}
+hr {
+    width: 100%;
+}
+.buttoncontainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+    margin-top: 5px;
+    padding-left: 10px;
+    gap:  18px;
+}
+#button {
+    background-color: rgb(39, 253, 253);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#button:focus {
+    background-color: rgb(238, 149, 231);
+}
+#button:hover {
+    background-color: rgb(67, 52, 133);
+}
+input:focus {
+    background-color: rgb(238, 149, 231);
+    border-radius: 5px  rgb(194, 23, 171);
+}
+textarea:focus {
+    background-color: rgb(238, 149, 231);
+    border-radius: 5px  rgb(194, 23, 171);
+}

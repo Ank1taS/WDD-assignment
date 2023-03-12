@@ -1,0 +1,13 @@
+.containt {
+    height: 50%;
+    align-items: center;
+    margin: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+    margin-top: 5px;
+    gap:  13px;
+}

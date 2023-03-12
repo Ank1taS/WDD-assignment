@@ -1,0 +1,39 @@
+<details>
+    <student>
+        <name>Ankita Sahoo</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <roll>2224100041</roll>
+    </student>
+    <student>
+        <name>Pariseema Routray</name>
+        <age>22</age>
+        <gender>Female</gender>
+        <roll>2224100015</roll>
+    </student>
+    <student>
+        <name>Chadrakant Jena</name>
+        <age>21</age>
+        <gender>Male</gender>
+        <roll>2224100033</roll>
+    </student>
+    <student>
+        <name>Ipsita Pattnayak</name>
+        <age>22</age>
+        <gender>Female</gender>
+        <roll>2224100022</roll>
+    </student>
+    <student>
+        <name>SomyaRanjan Sahoo</name>
+        <age>21</age>
+        <gender>Male</gender>
+        <roll>2224100008</roll>
+    </student>
+    <student>
+        <name>Chinamyee Sabar</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <roll>2224100038</roll>
+    </student>
+
+</details>
